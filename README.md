@@ -4,9 +4,6 @@
 
 <p class="texto">Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na WYDEN - Uniruy. Anteriormente eu cursava Design gráfico. Minha principal linguagem de programação é Java, onde concentro a maior parte dos meus estudos. Tenho interesse tanto em desenvolvimento back-end quanto front-end, e estou constantemente me atualizando na área de tecnologia. Adoro aprender e aplicar meus conhecimentos para criar soluções inovadoras!</p>
 
-
-<img align="top" height="150" src="https://www.icegif.com/wp-content/uploads/tanjiro-kamado-icegif-9.gif" />
-
 ###
 
 ---
