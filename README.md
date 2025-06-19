@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Rafaela Chagas and I'm a Fullstack Developer, from Salvador, Bahia. </h2>
 
-### Sobre Mim
+### About me
 
 <p class="texto">Full Stack Developer in training, with experience in Java, Spring Boot, SQL, and MySQL. Currently working as a Java Development Intern and also as an IT Intern, providing technical support, network maintenance, and database administration. I am always seeking to learn and apply new technological solutions to optimize systems and processes, with a focus on results and teamwork.
 
