@@ -2,7 +2,18 @@
 
 ### Sobre Mim
 
-<p class="texto">Atualmente, sou estudante de Análise e Desenvolvimento de Sistemas na WYDEN - Uniruy. Anteriormente eu cursava Design gráfico. Minha principal linguagem de programação é Java, onde concentro a maior parte dos meus estudos. Tenho interesse tanto em desenvolvimento back-end quanto front-end, e estou constantemente me atualizando na área de tecnologia. Adoro aprender e aplicar meus conhecimentos para criar soluções inovadoras!</p>
+<p class="texto">Full Stack Developer in training, with experience in Java, Spring Boot, SQL, and MySQL. Currently working as a Java Development Intern and also as an IT Intern, providing technical support, network maintenance, and database administration. I am always seeking to learn and apply new technological solutions to optimize systems and processes, with a focus on results and teamwork.
+
+Technologies and Tools:
+
+Languages: Java
+Frameworks: Spring Boot
+Databases: MySQL, SQL
+Version Control: Git, GitHub
+
+Currently Learning: HTML5, CSS3, JavaScript, Power BI
+
+My goal is to learn through hands-on experience, evolve my skills as a developer, and contribute to real-world projects, while bringing value to the team and the company.</p>
 
 ###
 
