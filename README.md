@@ -2,7 +2,11 @@
 
 ### About me
 
-<p class="texto">Full Stack Developer in training, with experience in Java, Spring Boot, SQL, and MySQL. Currently working as a Java Development Intern and also as an IT Intern, providing technical support, network maintenance, and database administration. I am always seeking to learn and apply new technological solutions to optimize systems and processes, with a focus on results and teamwork.
+<p class="texto">Back-End Developer and QA in training, currently studying Systems Analysis and Development and Computer Science.
+
+Working as a QA Intern, performing functional tests, bug tracking, and ensuring quality in software projects. I have previous experience with Java, Spring Boot, SQL, and MySQL, as well as IT support, network maintenance, and database administration.
+
+I aim to continuously improve my skills in back-end development and software quality, applying technological solutions to optimize systems and processes, with a focus on results, quality, and teamwork.
 
 Technologies and Tools:
 
@@ -10,10 +14,9 @@ Languages: Java
 Frameworks: Spring Boot
 Databases: MySQL, SQL
 Version Control: Git, GitHub
+Currently studying: JavaScript, C#
 
-Currently Learning: HTML5, CSS3, JavaScript, Power BI
-
-My goal is to learn through hands-on experience, evolve my skills as a developer, and contribute to real-world projects, while bringing value to the team and the company.</p>
+My goal is to grow through practical experience, strengthen my skills in both back-end and QA, and contribute to impactful projects, adding value to the team and the company.</p>
 
 ###
 
