@@ -2,7 +2,7 @@
 
 ### About me
 
-<p class="texto">Back-End Developer and QA in training, currently studying Systems Analysis and Development and Computer Science.
+<p class="texto">Full-Stack Developer and QA in training, currently studying Systems Analysis and Development and Computer Science.
 
 Working as a QA Intern, performing functional tests, bug tracking, and ensuring quality in software projects. I have previous experience with Java, Spring Boot, SQL, and MySQL, as well as IT support, network maintenance, and database administration.
 
