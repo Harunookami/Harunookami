@@ -11,9 +11,13 @@ I aim to continuously improve my skills in back-end development and software qua
 Technologies and Tools:
 
 Languages: Java
+
 Frameworks: Spring Boot
+
 Databases: MySQL, SQL
+
 Version Control: Git, GitHub
+
 Currently studying: JavaScript, C#
 
 My goal is to grow through practical experience, strengthen my skills in both back-end and QA, and contribute to impactful projects, adding value to the team and the company.</p>
