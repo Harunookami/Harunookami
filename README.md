@@ -18,7 +18,7 @@ Databases: MySQL, SQL
 
 Version Control: Git, GitHub
 
-Currently studying: JavaScript, C#
+Currently studying: JavaScript, HTML and CSS
 
 My goal is to grow through practical experience, strengthen my skills in both back-end and QA, and contribute to impactful projects, adding value to the team and the company.</p>
 
