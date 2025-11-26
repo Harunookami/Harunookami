@@ -14,8 +14,6 @@ Languages: Java
 
 Frameworks: Spring Boot
 
-Databases: MySQL, SQL
-
 Version Control: Git, GitHub
 
 Currently studying: JavaScript, HTML and CSS
