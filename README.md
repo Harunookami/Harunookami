@@ -16,7 +16,7 @@ Frameworks: Spring Boot
 
 Version Control: Git, GitHub
 
-Currently studying: JavaScript, HTML and CSS
+Currently studying: JavaScript, React, HTML and CSS
 
 My goal is to grow through practical experience, strengthen my skills in both back-end and QA, and contribute to impactful projects, adding value to the team and the company.</p>
 
@@ -43,6 +43,8 @@ My goal is to grow through practical experience, strengthen my skills in both ba
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height ="30" alt="git-logo" />
    <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height ="30" alt="github-logo" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" height = "30" alt = "react-logo" />
+          
 
 </div>
 
