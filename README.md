@@ -1,26 +1,35 @@
-<h2 align="left">Hi 👋! My name is Rafaela Chagas and I'm a Fullstack Developer, from Salvador, Bahia. </h2>
+# 👋 Hi! I'm Rafaela Chagas  
+💻 Front-End Intern | Former QA Intern | React | TypeScript | JavaScript  
 
-### About me
+📍 Salvador, Bahia, Brazil  
 
-<p class="texto">Full-Stack Developer and QA in training, currently studying Systems Analysis and Development and Computer Science.
+## 🌱 About me
 
-Working as a QA Intern, performing functional tests, bug tracking, and ensuring quality in software projects. I have previous experience with Java, Spring Boot, as well as IT support, network maintenance, and database administration.
+I'm a software developer **graduated in Systems Analysis and Development** and currently **studying Computer Science**.  
+I worked for **6 months as a QA Intern**, where I developed a strong attention to quality, usability, and software behavior through functional and exploratory testing.
 
-I aim to continuously improve my skills in back-end development and software quality, applying technological solutions to optimize systems and processes, with a focus on results, quality, and teamwork.
+Currently, I'm working as a **Front-End Intern**, where I have the opportunity to apply my knowledge in **React and TypeScript**, developing components, fixing bugs, consuming APIs, and continuously learning from more experienced developers.
 
-Technologies and Tools:
+My background in QA helps me build interfaces with more care, clarity, and focus on the end user.  
+I enjoy learning, evolving through practice, and building software with quality from the first line of code.
 
-Languages: Java
+## 🛠️ Tech Stack
 
-Frameworks: Spring Boot
+**Front-End:**  
+JavaScript | React | TypeScript | HTML | CSS  
 
-Version Control: Git, GitHub
+**Back-End & Databases:**  
+Java | Spring Boot | SQL | MySQL  
 
-Currently studying: JavaScript, React, HTML and CSS
+**Tools & Version Control:**  
+Git | GitHub | VS Code | Postman  
 
-My goal is to grow through practical experience, strengthen my skills in both back-end and QA, and contribute to impactful projects, adding value to the team and the company.</p>
+## 🎯 Goals
 
-###
+Grow as a Front-End Developer, strengthen my technical foundation, and contribute to meaningful projects while continuously improving my skills.
+
+---
+
 
 ---
 
