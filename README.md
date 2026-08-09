@@ -56,7 +56,7 @@ Grow as a Front-End Developer, strengthen my technical foundation, and contribut
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height ="30" alt="git-logo" />
    <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" height ="30" alt="postgresql-logo" />
   <img width="12" />
           
 
