@@ -19,7 +19,7 @@ I enjoy learning, evolving through practice, and building software with quality 
 JavaScript | React | TypeScript | HTML | CSS  
 
 **Back-End & Databases:**  
-Java | Spring Boot | SQL | MySQL  
+Java | Spring Boot | SQL | MySQL | PostgreSQL
 
 **Tools & Version Control:**  
 Git | GitHub | VS Code | Postman  
@@ -27,9 +27,6 @@ Git | GitHub | VS Code | Postman
 ## 🎯 Goals
 
 Grow as a Front-End Developer, strengthen my technical foundation, and contribute to meaningful projects while continuously improving my skills.
-
----
-
 
 ---
 
